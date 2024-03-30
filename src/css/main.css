@@ -12,11 +12,7 @@ html {
 }
 
 body {
-  background: linear-gradient(
-    190deg,
-    rgb(134, 123, 205) 0%,
-    rgb(106, 90, 171) 100%
-  );
+  background: #7AA2E3;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -63,7 +59,7 @@ body {
 
 .add-btn {
   margin-left: 1rem;
-  background-color: #271c6c;
+  background-color: #4ab1bb;
   color: #e1ebfd;
   border-radius: 50%;
   border: 2px solid #e1ebfd;
@@ -98,6 +94,7 @@ body {
   border-radius: 20px;
   cursor: pointer;
   border: none;
+  
 }
 
 .displaytodos .buttons button:focus {
